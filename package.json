@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/chiazonghanderrick/testCICD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/chiazonghanderrick/testCICD/issues"
+  },
+  "homepage": "https://github.com/chiazonghanderrick/testCICD#readme"
+}
